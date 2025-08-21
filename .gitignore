@@ -1,0 +1,45 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+
+# Coverage reports
+.coverage
+htmlcov/
+*.cover
+.coverage.*
+.cache
+
+# Pytest cache
+.pytest_cache/
+
+# Docker
+*.dockerignore
+Dockerfile
+docker-compose.override.yml
+
+# Migrations
+migrations/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
